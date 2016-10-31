@@ -1,0 +1,6 @@
+﻿  maincpp.cpp
+c:\users\s9552\desktop\computer graphics\290-assignment2-yuanlinhsu\assignment2\maincpp.cpp(78): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\s9552\desktop\computer graphics\290-assignment2-yuanlinhsu\assignment2\maincpp.cpp(81): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\s9552\desktop\computer graphics\290-assignment2-yuanlinhsu\assignment2\maincpp.cpp(183): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Assignment2.vcxproj -> C:\Users\s9552\Desktop\Computer Graphics\290-assignment2-yuanlinhsu\Debug\Assignment2.exe
+  Assignment2.vcxproj -> C:\Users\s9552\Desktop\Computer Graphics\290-assignment2-yuanlinhsu\Debug\Assignment2.pdb (Partial PDB)
